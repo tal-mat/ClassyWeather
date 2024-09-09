@@ -24,4 +24,5 @@ yarn-error.log*
 
 # Additional files to ignore
 src/Counter.js
-src/App-v2.js1
+src/App-v1.js
+src/starter.js
